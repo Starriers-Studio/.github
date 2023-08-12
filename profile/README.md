@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="100" width="100" src="https://avatars.githubusercontent.com/u/141087876?s=200&v=4"/>
+<img height="100" width="100" src="img/STARRY-NOBG-400x400.png"/>
 
 ## Starriers
 Studio of "Starriers".
